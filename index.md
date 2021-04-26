@@ -15,5 +15,3 @@ I have a PhD. in Public Policy from the Tecnológico de Monterrey´s [School of 
 My research interests focus on the relationship(s) between micro level heterogeneity, macro level fluctuations and public policies shaping them.
 
 ---
-
-I am currently updating this website. In the meantime you can find my recent work [here](https://ideas.repec.org/e/pvi193.html "RePEc"), or reach me [here](https://www.linkedin.com/in/fgvillarreal/ "LinkedIn")
