@@ -1,6 +1,6 @@
 ---
 layout: resume
-title: cv
+title: Things that make my Mom proud
 ---
 ## Occupation
 
@@ -17,7 +17,7 @@ title: cv
 ## Education
 
 `2016`
-__Tec de Monterrey__
+__Tecnológico de Monterrey__
 PhD Public Policies
 
 `2001`
@@ -27,7 +27,7 @@ MSc Economics and Finance
 `2000` __University of Warwick__
 PG Diploma Economics
 
-`1997` __Tec de Monterrey__
+`1997` __Tecnológico de Monterrey__
 BA International Trade
 
 ## Publications

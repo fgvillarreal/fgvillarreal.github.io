@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Home
-excerpt: "About Me..."
+title: About me
 ---
 
 Hi, my name is Francisco G. Villarreal.
