@@ -14,6 +14,8 @@ title: Things that make my Mom proud
 
 `2001-2002` Teaching Assistant, Economics Department, Universidad Carlos III de Madrid
 
+`1997-1999` Deputy Manager, Treasury, Banamex
+
 ## Education
 
 `2016`
@@ -60,6 +62,6 @@ Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Li
 
 <!-- ### Footer
 
-Last updated: April 2021 -->
+Last updated: June 2021 -->
 
 
